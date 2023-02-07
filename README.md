@@ -49,15 +49,6 @@ _Sandwich Artist_
 - Successful projects
 - Within Makers communication has been important so that everyone on the project is aware of what is happening at any given moment. When one's communication falls through it often can be difficult to know what they're doing/accomplishing for the project, so i prioritised this. An example of this is how on Bakery Manger, two other team members and I would stay on Zoom all day, being avaliable when required, but also so we knew what was being done.
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
 #### Makers Academy (October 2022 to February 2023)
@@ -72,10 +63,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Anglia Ruskin University (September 2022 to current)
 
 - English Language and Linguistics
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
